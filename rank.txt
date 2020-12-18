@@ -1,79 +1,81 @@
+2
+
 1 遊具のテープは誰が巻いた？　コロナで見逃していた身近な人権問題　子どもだって言いたいことがあったはずwithnews12/18(金) 7:00
 https://headlines.yahoo.co.jp/hl?a=20201218-00000001-withnews-sci
 2 ドコモが大容量プランを600円～1000円値下げ　「5Gギガホ プレミア」「ギガホ プレミア」発表ITmedia Mobile12/18(金) 11:44
 https://headlines.yahoo.co.jp/hl?a=20201218-00000033-zdn_m-sci
 3 ドコモが「はじめてスマホプラン」発表　1GB＋5分かけ放題でずっと月額1480円～ITmedia Mobile12/18(金) 14:02
 https://headlines.yahoo.co.jp/hl?a=20201218-00000056-zdn_m-sci
-4 はやぶさ２　採取重量は目標の５４倍産経新聞12/18(金) 15:19
-https://headlines.yahoo.co.jp/hl?a=20201218-00000542-san-sctch
-5 アップル「iPhone 12 mini」小さな不満といくつかの解決策アスキー12/18(金) 16:00
+4 アップル「iPhone 12 mini」小さな不満といくつかの解決策アスキー12/18(金) 16:00
 https://headlines.yahoo.co.jp/hl?a=20201218-00000010-ascii-sci
+5 はやぶさ２　採取重量は目標の５４倍産経新聞12/18(金) 15:19
+https://headlines.yahoo.co.jp/hl?a=20201218-00000542-san-sctch
 6 注目のオープンワールドゲーム「サイバーパンク2077」　「下半身露出」などのバグ多発で返金対応へJ-CASTニュース12/14(月) 19:14
 https://headlines.yahoo.co.jp/hl?a=20201214-00000012-jct-sci
-7 イヤフォンの選び方とオススメは？　ワイヤレスの売れ筋、機能別のメリットと注意点を解説ねとらぼ12/18(金) 12:41
-https://headlines.yahoo.co.jp/hl?a=20201218-10003230-it_nlab-sci
 https://headlines.yahoo.co.jp/hl?a=20201218-00000031-zdn_pc-prod
-9 冬の朝、布団から抜け出せないのはなぜ？…原因は寒さより「緯度」に読売新聞（ヨミドクター）12/17(木) 12:15
+8 イヤフォンの選び方とオススメは？　ワイヤレスの売れ筋、機能別のメリットと注意点を解説ねとらぼ12/18(金) 12:41
+https://headlines.yahoo.co.jp/hl?a=20201218-10003230-it_nlab-sci
+9 オリンパス、希望退職950人募集ITmedia NEWS12/18(金) 16:59
+https://headlines.yahoo.co.jp/hl?a=20201218-00000079-zdn_n-sci
+10 冬の朝、布団から抜け出せないのはなぜ？…原因は寒さより「緯度」に読売新聞（ヨミドクター）12/17(木) 12:15
 https://headlines.yahoo.co.jp/hl?a=20201217-00010000-yomidr-sctch
-10 138億年で誤差0.1秒以下。MIT、世界最高精度の原子時計。暗黒物質などの解明に利用Impress Watch12/18(金) 13:21
+11 138億年で誤差0.1秒以下。MIT、世界最高精度の原子時計。暗黒物質などの解明に利用Impress Watch12/18(金) 13:21
 https://headlines.yahoo.co.jp/hl?a=20201218-00000127-impress-sci
-11 「OCN モバイル ONE」の契約で中古iPhone 7が1円に　ゲオがキャンペーンITmedia Mobile12/18(金) 15:22
-https://headlines.yahoo.co.jp/hl?a=20201218-00000061-zdn_m-prod
 12 米国株：ナスダック最高値--下落暗示「ブラックスワン」と10大リスクZDNet Japan12/18(金) 12:00
 https://headlines.yahoo.co.jp/hl?a=20201218-35164071-zdnet-sci
-13 オリンパス、希望退職950人募集ITmedia NEWS12/18(金) 16:59
-https://headlines.yahoo.co.jp/hl?a=20201218-00000079-zdn_n-sci
+13 「OCN モバイル ONE」の契約で中古iPhone 7が1円に　ゲオがキャンペーンITmedia Mobile12/18(金) 15:22
+https://headlines.yahoo.co.jp/hl?a=20201218-00000061-zdn_m-prod
 14 なぜ病床が足りなくなるのか？…「医療崩壊」を知る医師・森田洋之さんが語る新型コロナ危機の真実読売新聞（ヨミドクター）12/17(木) 15:11
 https://headlines.yahoo.co.jp/hl?a=20201217-00010001-yomidr-sctch
 15 ドコモ新料金プラン 「5Gギガホ プレミア」はデータ無制限で6,650円Impress Watch12/18(金) 12:57
 https://headlines.yahoo.co.jp/hl?a=20201218-00000115-impress-sci
-16 近視を治すメガネ、プロトタイプが完成　網膜に特殊な光を当てて刺激ITmedia NEWS12/17(木) 21:20
-https://headlines.yahoo.co.jp/hl?a=20201217-00000106-zdn_n-sci
-17 ソフトバンク、双葉電子と産業用ドローンを開発--“中国製ドローン離れ”をチャンスにCNET Japan12/18(金) 16:45
+16 ソフトバンク、双葉電子と産業用ドローンを開発--“中国製ドローン離れ”をチャンスにCNET Japan12/18(金) 16:45
 https://headlines.yahoo.co.jp/hl?a=20201218-35164077-cnetj-sci
-18 野生化した外来種との交雑が進む　国の特別天然記念物「オオサンショウウオ」　岡山KSB瀬戸内海放送12/18(金) 14:00
-https://headlines.yahoo.co.jp/hl?a=20201218-11273631-ksbv-sctch
-19 2020年もっとも検索された人気スポットは？ 全国・各県上位、アニメ聖地のランキングを発表【ナビタイムジャパン調べ】Web担当者Forum12/18(金) 16:06
-https://headlines.yahoo.co.jp/hl?a=20201218-00000006-webtan-sci
-20 買い替えは「iPhone 12」がベスト！　12 Proを買った筆者が後悔した理由ITmedia Mobile12/14(月) 13:26
-https://headlines.yahoo.co.jp/hl?a=20201214-00000041-zdn_m-prod
-21 乳がんと診断されました。BRCA遺伝子の検査を受けた方がいいのでしょうか？読売新聞（ヨミドクター）12/18(金) 12:14
-https://headlines.yahoo.co.jp/hl?a=20201218-00010000-yomidr-sctch
-22 SIE、米国や欧州のPS Storeで「サイバーパンク2077」の販売を一時停止　日本でもページを閲覧できない状態にITmedia NEWS12/18(金) 13:29
-https://headlines.yahoo.co.jp/hl?a=20201218-00000054-zdn_n-prod
-23 ドコモ、他社への乗り換え手数料を廃止　総務省の指摘受けITmedia NEWS12/18(金) 16:52
-https://headlines.yahoo.co.jp/hl?a=20201218-00000078-zdn_n-sci
-24 モデルナのワクチンも米で使用許可へ 日本にも供給合意朝日新聞デジタル12/18(金) 16:53
+17 モデルナのワクチンも米で使用許可へ 日本にも供給合意朝日新聞デジタル12/18(金) 16:53
 https://headlines.yahoo.co.jp/hl?a=20201218-00000060-asahi-sctch
-25 お得だけど注意点も多い!? ドコモの格安プラン「ahamo」のメリットとデメリットを整理All About12/14(月) 20:45
+18 近視を治すメガネ、プロトタイプが完成　網膜に特殊な光を当てて刺激ITmedia NEWS12/17(木) 21:20
+https://headlines.yahoo.co.jp/hl?a=20201217-00000106-zdn_n-sci
+19 ドコモ、他社への乗り換え手数料を廃止　総務省の指摘受けITmedia NEWS12/18(金) 16:52
+https://headlines.yahoo.co.jp/hl?a=20201218-00000078-zdn_n-sci
+20 野生化した外来種との交雑が進む　国の特別天然記念物「オオサンショウウオ」　岡山KSB瀬戸内海放送12/18(金) 14:00
+https://headlines.yahoo.co.jp/hl?a=20201218-11273631-ksbv-sctch
+21 買い替えは「iPhone 12」がベスト！　12 Proを買った筆者が後悔した理由ITmedia Mobile12/14(月) 13:26
+https://headlines.yahoo.co.jp/hl?a=20201214-00000041-zdn_m-prod
+22 乳がんと診断されました。BRCA遺伝子の検査を受けた方がいいのでしょうか？読売新聞（ヨミドクター）12/18(金) 12:14
+https://headlines.yahoo.co.jp/hl?a=20201218-00010000-yomidr-sctch
+23 2020年もっとも検索された人気スポットは？ 全国・各県上位、アニメ聖地のランキングを発表【ナビタイムジャパン調べ】Web担当者Forum12/18(金) 16:06
+https://headlines.yahoo.co.jp/hl?a=20201218-00000006-webtan-sci
+24 お得だけど注意点も多い!? ドコモの格安プラン「ahamo」のメリットとデメリットを整理All About12/14(月) 20:45
 https://headlines.yahoo.co.jp/hl?a=20201214-00027541-nallabout-prod
-26 自動運転バス、ハンドル急旋回で物損事故　実証実験中止朝日新聞デジタル12/18(金) 11:56
-https://headlines.yahoo.co.jp/hl?a=20201218-00000042-asahi-sci
-27 動く実物大ガンダムの「起動式」をNHKが生中継　カメラ12台でITmedia NEWS12/17(木) 20:41
+25 SIE、米国や欧州のPS Storeで「サイバーパンク2077」の販売を一時停止　日本でもページを閲覧できない状態にITmedia NEWS12/18(金) 13:29
+https://headlines.yahoo.co.jp/hl?a=20201218-00000054-zdn_n-prod
+26 動く実物大ガンダムの「起動式」をNHKが生中継　カメラ12台でITmedia NEWS12/17(木) 20:41
 https://headlines.yahoo.co.jp/hl?a=20201217-00000101-zdn_n-prod
-28 セブンイレブン、「肌にやさしい洗えるマスク」発売Impress Watch12/18(金) 11:42
+27 セブンイレブン、「肌にやさしい洗えるマスク」発売Impress Watch12/18(金) 11:42
 https://headlines.yahoo.co.jp/hl?a=20201218-00000082-impress-sci
+28 自動運転バス、ハンドル急旋回で物損事故　実証実験中止朝日新聞デジタル12/18(金) 11:56
+https://headlines.yahoo.co.jp/hl?a=20201218-00000042-asahi-sci
 29 「ahamo」、3月の開始時からMNP手続き不要に変更Impress Watch12/18(金) 12:35
 https://headlines.yahoo.co.jp/hl?a=20201218-00000107-impress-sci
-30 LINE、12月29日に上場廃止ITmedia NEWS12/16(水) 10:40
-https://headlines.yahoo.co.jp/hl?a=20201216-00000034-zdn_n-sci
-31 「言葉失う」と喜びのJAXA はやぶさ2のカプセルに大量の試料ＡＦＰ＝時事12/15(火) 23:04
+30 「言葉失う」と喜びのJAXA はやぶさ2のカプセルに大量の試料ＡＦＰ＝時事12/15(火) 23:04
 https://headlines.yahoo.co.jp/hl?a=20201215-00000037-jij_afp-sctch
+31 LINE、12月29日に上場廃止ITmedia NEWS12/16(水) 10:40
+https://headlines.yahoo.co.jp/hl?a=20201216-00000034-zdn_n-sci
 32 はやぶさ2が8つの世界初を達成。さらなる世界初を目指し、再び深宇宙へギズモード・ジャパン12/18(金) 12:30
 https://headlines.yahoo.co.jp/hl?a=20201218-00000005-giz-sctch
 33 「ahamo」のインパクトに勝てず“炎上”――KDDIが「分かりにくい割引」をやめなかった理由ITmedia NEWS12/16(水) 19:24
 https://headlines.yahoo.co.jp/hl?a=20201216-00000113-zdn_n-sci
 34 全教職員が出勤停止　鹿児島の公立、授業再開めど立たず朝日新聞デジタル12/15(火) 10:00
 https://headlines.yahoo.co.jp/hl?a=20201215-00000025-asahi-sctch
-35 シャープの国産マスク50枚入り、12月23日に抽選販売Impress Watch12/18(金) 13:01
-https://headlines.yahoo.co.jp/hl?a=20201218-00000116-impress-sci
+35 試料「ごろごろ、どっさり」　はやぶさ２、目標超える大量採取産経新聞12/15(火) 16:04
+https://headlines.yahoo.co.jp/hl?a=20201215-00000546-san-sctch
 36 ノジマで「PS5」の抽選販売を実施中、12月20日18時までBCN12/17(木) 17:30
 https://headlines.yahoo.co.jp/hl?a=20201217-00205002-bcn-sci
-37 試料「ごろごろ、どっさり」　はやぶさ２、目標超える大量採取産経新聞12/15(火) 16:04
-https://headlines.yahoo.co.jp/hl?a=20201215-00000546-san-sctch
-38 マスクの着け方から洗い方、メーク法まで ～独自の工夫も紹介～（野村有子・野村皮膚科医院院長）時事通信12/18(金) 14:00
+37 はやぶさ2「大粒試料どっさり、言葉失った」　小箱開封で黒い石確認毎日新聞12/15(火) 18:15
+https://headlines.yahoo.co.jp/hl?a=20201215-00000066-mai-sctch
+38 シャープの国産マスク50枚入り、12月23日に抽選販売Impress Watch12/18(金) 13:01
+https://headlines.yahoo.co.jp/hl?a=20201218-00000116-impress-sci
+39 マスクの着け方から洗い方、メーク法まで ～独自の工夫も紹介～（野村有子・野村皮膚科医院院長）時事通信12/18(金) 14:00
 https://headlines.yahoo.co.jp/hl?a=20201218-00010000-jij-sctch
-39 ドコモの「ahamo」はどれだけ安い？　他社サブブランド、楽天モバイル、MVNOと比較ITmedia Mobile12/17(木) 10:36
-https://headlines.yahoo.co.jp/hl?a=20201217-00000031-zdn_m-sci
-40 「暇つぶし」で投稿されたデマ…罪の意識欠如　追い詰められる被害者西日本新聞12/18(金) 10:01
-https://headlines.yahoo.co.jp/hl?a=20201218-00010001-nishinpc-sci
+40 燃料電池自動車向けの昇圧用パワーモジュールEDN Japan12/18(金) 17:00
+https://headlines.yahoo.co.jp/hl?a=20201218-00000071-it_edn-prod
